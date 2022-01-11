@@ -11,6 +11,6 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
 	// Comment out "renderers: []" to enable Astro's default component support.
 	renderers: [],
   buildOptions: {
-    site: 'https://example.com/blog/',
+    site: 'https://tadeuzagallo.com/astro-blog-test/',
   }
 });
